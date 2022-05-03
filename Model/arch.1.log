@@ -1,0 +1,3612 @@
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 117, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 118
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 118, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 119
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 119, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 120
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 120, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 121
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 121, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 122
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 122, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 123
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 123, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 124
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 124, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 125
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 125, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 126
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 126, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 127
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 127, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 128
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 128, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 129
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 129, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 130
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 130, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 131
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 131, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 132
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 132, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 133
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 133, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 134
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 134, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 135
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 135, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 136
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 136, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 137
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 137, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 138
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 138, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 139
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 139, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 140
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 140, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 141
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 141, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 142
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 142, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 143
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 143, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 144
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 144, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 145
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 145, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 146
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 146, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 147
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 147, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 148
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 148, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 149
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 149, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 150
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 150, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 151
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 151, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 152
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 152, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 153
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 153, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 154
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 154, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 155
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 155, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 156
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 156, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 157
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 157, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 158
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 158, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 159
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 159, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 160
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 160, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 161
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 161, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 162
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 162, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 163
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 163, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 164
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 164, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG o.h.e.t.internal.TransactionImpl - committing
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Processing flush-time cascades
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Dirty checking collections
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#1], was: [pl.first.firstjava.SudokuBoard.board#1] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#83], was: [<unreferenced>] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Flushed: 82 insertions, 0 updates, 0 deletions to 164 objects
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Flushed: 1 (re)creations, 0 updates, 0 removals to 2 collections
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - Listing entities:
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=151, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=4}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=150, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=8}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=149, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=6}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=148, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=2}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=155, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=5}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=154, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=7}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=153, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=3}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=152, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=1}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=159, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=3}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=158, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=1}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=157, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=7}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=156, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=5}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=163, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=8}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=162, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=6}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=161, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=2}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=160, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=9}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=135, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=1}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=134, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=9}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=133, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=3}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=132, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=2}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=139, sudokuBoard=pl.first.firstjava.SudokuBoard#83, value=4}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - More......
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuBoard
+        */ insert 
+        into
+            SudokuBoard
+            (name, id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG o.h.p.c.AbstractCollectionPersister - Inserting collection: [pl.first.firstjava.SudokuBoard.board#83]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG o.h.p.c.AbstractCollectionPersister - Done inserting collection: 81 rows inserted
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG o.h.e.t.internal.TransactionImpl - begin
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 165
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 165, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 166
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 166, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 167
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 167, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 168
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 168, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 169
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 169, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 170
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 170, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 171
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 171, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 172
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 172, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 173
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 173, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 174
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 174, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 175
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 175, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 176
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 176, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 177
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 177, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 178
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 178, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 179
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 179, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 180
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 180, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 181
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 181, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 182
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 182, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 183
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 183, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 184
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 184, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 185
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 185, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 186
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 186, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 187
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 187, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 188
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 188, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 189
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 189, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 190
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 190, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 191
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 191, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 192
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 192, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 193
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 193, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 194
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 194, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 195
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 195, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 196
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 196, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 197
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 197, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 198
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 198, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 199
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 199, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 200
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 200, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 201
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 201, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 202
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 202, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 203
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 203, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 204
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 204, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 205
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 205, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 206
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 206, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 207
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 207, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 208
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 208, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 209
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 209, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 210
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 210, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 211
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 211, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 212
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 212, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 213
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 213, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 214
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 214, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 215
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 215, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 216
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 216, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 217
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 217, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 218
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 218, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 219
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 219, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 220
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 220, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 221
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 221, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 222
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 222, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 223
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 223, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 224
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 224, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 225
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 225, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 226
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 226, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 227
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 227, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 228
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 228, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 229
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 229, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 230
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 230, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 231
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 231, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 232
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 232, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 233
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 233, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 234
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 234, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 235
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 235, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 236
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 236, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 237
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 237, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 238
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 238, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 239
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 239, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 240
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 240, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 241
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 241, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 242
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 242, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 243
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 243, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 244
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 244, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 245
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 245, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    call next value for hibernate_sequence
+2021-01-15 12:00:23 [main] DEBUG o.h.id.enhanced.SequenceStructure - Sequence value obtained: 246
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.ResourceRegistryStandardImpl - HHH000387: ResultSet's statement was not registered
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractSaveEventListener - Generated identifier: 246, using strategy: org.hibernate.id.enhanced.SequenceStyleGenerator
+2021-01-15 12:00:23 [main] DEBUG o.h.e.t.internal.TransactionImpl - committing
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Processing flush-time cascades
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Dirty checking collections
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#1], was: [pl.first.firstjava.SudokuBoard.board#1] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#83], was: [pl.first.firstjava.SudokuBoard.board#83] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#165], was: [<unreferenced>] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Flushed: 82 insertions, 0 updates, 0 deletions to 246 objects
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Flushed: 1 (re)creations, 0 updates, 0 removals to 3 collections
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - Listing entities:
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuBoard{name=Tab3test, id=165, board=[pl.first.firstjava.SudokuField#166, pl.first.firstjava.SudokuField#167, pl.first.firstjava.SudokuField#168, pl.first.firstjava.SudokuField#169, pl.first.firstjava.SudokuField#170, pl.first.firstjava.SudokuField#171, pl.first.firstjava.SudokuField#172, pl.first.firstjava.SudokuField#173, pl.first.firstjava.SudokuField#174, pl.first.firstjava.SudokuField#175, pl.first.firstjava.SudokuField#176, pl.first.firstjava.SudokuField#177, pl.first.firstjava.SudokuField#178, pl.first.firstjava.SudokuField#179, pl.first.firstjava.SudokuField#180, pl.first.firstjava.SudokuField#181, pl.first.firstjava.SudokuField#182, pl.first.firstjava.SudokuField#183, pl.first.firstjava.SudokuField#184, pl.first.firstjava.SudokuField#185, pl.first.firstjava.SudokuField#186, pl.first.firstjava.SudokuField#187, pl.first.firstjava.SudokuField#188, pl.first.firstjava.SudokuField#189, pl.first.firstjava.SudokuField#190, pl.first.firstjava.SudokuField#191, pl.first.firstjava.SudokuField#192, pl.first.firstjava.SudokuField#193, pl.first.firstjava.SudokuField#194, pl.first.firstjava.SudokuField#195, pl.first.firstjava.SudokuField#196, pl.first.firstjava.SudokuField#197, pl.first.firstjava.SudokuField#198, pl.first.firstjava.SudokuField#199, pl.first.firstjava.SudokuField#200, pl.first.firstjava.SudokuField#201, pl.first.firstjava.SudokuField#202, pl.first.firstjava.SudokuField#203, pl.first.firstjava.SudokuField#204, pl.first.firstjava.SudokuField#205, pl.first.firstjava.SudokuField#206, pl.first.firstjava.SudokuField#207, pl.first.firstjava.SudokuField#208, pl.first.firstjava.SudokuField#209, pl.first.firstjava.SudokuField#210, pl.first.firstjava.SudokuField#211, pl.first.firstjava.SudokuField#212, pl.first.firstjava.SudokuField#213, pl.first.firstjava.SudokuField#214, pl.first.firstjava.SudokuField#215, pl.first.firstjava.SudokuField#216, pl.first.firstjava.SudokuField#217, pl.first.firstjava.SudokuField#218, pl.first.firstjava.SudokuField#219, pl.first.firstjava.SudokuField#220, pl.first.firstjava.SudokuField#221, pl.first.firstjava.SudokuField#222, pl.first.firstjava.SudokuField#223, pl.first.firstjava.SudokuField#224, pl.first.firstjava.SudokuField#225, pl.first.firstjava.SudokuField#226, pl.first.firstjava.SudokuField#227, pl.first.firstjava.SudokuField#228, pl.first.firstjava.SudokuField#229, pl.first.firstjava.SudokuField#230, pl.first.firstjava.SudokuField#231, pl.first.firstjava.SudokuField#232, pl.first.firstjava.SudokuField#233, pl.first.firstjava.SudokuField#234, pl.first.firstjava.SudokuField#235, pl.first.firstjava.SudokuField#236, pl.first.firstjava.SudokuField#237, pl.first.firstjava.SudokuField#238, pl.first.firstjava.SudokuField#239, pl.first.firstjava.SudokuField#240, pl.first.firstjava.SudokuField#241, pl.first.firstjava.SudokuField#242, pl.first.firstjava.SudokuField#243, pl.first.firstjava.SudokuField#244, pl.first.firstjava.SudokuField#245, pl.first.firstjava.SudokuField#246]}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=246, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=245, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=244, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=231, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=230, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=229, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=228, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=235, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=234, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=233, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=232, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=239, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=238, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=237, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=236, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=243, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=242, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=241, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=240, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=215, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - More......
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuBoard
+        */ insert 
+        into
+            SudokuBoard
+            (name, id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert pl.first.firstjava.SudokuField
+        */ insert 
+        into
+            SudokuField
+            (board_id, value, id) 
+        values
+            (?, ?, ?)
+2021-01-15 12:00:23 [main] DEBUG o.h.p.c.AbstractCollectionPersister - Inserting collection: [pl.first.firstjava.SudokuBoard.board#165]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* insert collection
+        row pl.first.firstjava.SudokuBoard.board */ insert 
+        into
+            SudokuBoard_SudokuField
+            (SudokuBoard_id, board_id) 
+        values
+            (?, ?)
+2021-01-15 12:00:23 [main] DEBUG o.h.p.c.AbstractCollectionPersister - Done inserting collection: 81 rows inserted
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG o.h.q.c.internal.CriteriaQueryImpl - Rendered criteria query -> select generatedAlias0 from SudokuBoard as generatedAlias0
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.QueryTranslatorFactoryInitiator - QueryTranslatorFactory : org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory@528c8c1
+2021-01-15 12:00:23 [main] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - parse() - HQL: select generatedAlias0 from pl.first.firstjava.SudokuBoard as generatedAlias0
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.ErrorTracker - throwQueryException() : no errors
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - --- HQL AST ---
+ \-[QUERY] Node: 'query'
+    \-[SELECT_FROM] Node: 'SELECT_FROM'
+       +-[FROM] Node: 'from'
+       |  \-[RANGE] Node: 'RANGE'
+       |     +-[DOT] Node: '.'
+       |     |  +-[DOT] Node: '.'
+       |     |  |  +-[DOT] Node: '.'
+       |     |  |  |  +-[IDENT] Node: 'pl'
+       |     |  |  |  \-[IDENT] Node: 'first'
+       |     |  |  \-[IDENT] Node: 'firstjava'
+       |     |  \-[IDENT] Node: 'SudokuBoard'
+       |     \-[ALIAS] Node: 'generatedAlias0'
+       \-[SELECT] Node: 'select'
+          \-[IDENT] Node: 'generatedAlias0'
+
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.antlr.HqlSqlBaseWalker - select << begin [level=1, statement=select]
+2021-01-15 12:00:23 [main] DEBUG o.h.h.internal.ast.tree.FromElement - FromClause{level=1} : pl.first.firstjava.SudokuBoard (generatedAlias0) -> sudokuboar0_
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.tree.FromReferenceNode - Resolved : generatedAlias0 -> sudokuboar0_.id
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.antlr.HqlSqlBaseWalker - select : finishing up [level=1, statement=select]
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.HqlSqlWalker - processQuery() :  ( SELECT ( {select clause} sudokuboar0_.id ) ( FromClause{level=1} SudokuBoard sudokuboar0_ ) )
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.util.JoinProcessor - Using FROM fragment [SudokuBoard sudokuboar0_]
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.antlr.HqlSqlBaseWalker - select >> end [level=1, statement=select]
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - --- SQL AST ---
+ \-[SELECT] QueryNode: 'SELECT'  querySpaces (SudokuBoard)
+    +-[SELECT_CLAUSE] SelectClause: '{select clause}'
+    |  +-[ALIAS_REF] IdentNode: 'sudokuboar0_.id as id1_0_' {alias=generatedAlias0, className=pl.first.firstjava.SudokuBoard, tableAlias=sudokuboar0_}
+    |  \-[SQL_TOKEN] SqlFragment: 'sudokuboar0_.name as name2_0_'
+    \-[FROM] FromClause: 'from' FromClause{level=1, fromElementCounter=1, fromElements=1, fromElementByClassAlias=[generatedAlias0], fromElementByTableAlias=[sudokuboar0_], fromElementsByPath=[], collectionJoinFromElementsByPath=[], impliedElements=[]}
+       \-[FROM_FRAGMENT] FromElement: 'SudokuBoard sudokuboar0_' FromElement{explicit,not a collection join,not a fetch join,fetch non-lazy properties,classAlias=generatedAlias0,role=null,tableName=SudokuBoard,tableAlias=sudokuboar0_,origin=null,columns={,className=pl.first.firstjava.SudokuBoard}}
+
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.ErrorTracker - throwQueryException() : no errors
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - HQL: select generatedAlias0 from pl.first.firstjava.SudokuBoard as generatedAlias0
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - SQL: select sudokuboar0_.id as id1_0_, sudokuboar0_.name as name2_0_ from SudokuBoard sudokuboar0_
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.ErrorTracker - throwQueryException() : no errors
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* select
+        generatedAlias0 
+    from
+        SudokuBoard as generatedAlias0 */ select
+            sudokuboar0_.id as id1_0_,
+            sudokuboar0_.name as name2_0_ 
+        from
+            SudokuBoard sudokuboar0_
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 0
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#1]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 1
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#83]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 2
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#165]
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* select
+        generatedAlias0 
+    from
+        SudokuBoard as generatedAlias0 */ select
+            sudokuboar0_.id as id1_0_,
+            sudokuboar0_.name as name2_0_ 
+        from
+            SudokuBoard sudokuboar0_
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 0
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#1]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 1
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#83]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 2
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#165]
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - parse() - HQL: select b from pl.first.firstjava.SudokuBoard b where b.name = :name
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.ErrorTracker - throwQueryException() : no errors
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - --- HQL AST ---
+ \-[QUERY] Node: 'query'
+    +-[SELECT_FROM] Node: 'SELECT_FROM'
+    |  +-[FROM] Node: 'from'
+    |  |  \-[RANGE] Node: 'RANGE'
+    |  |     +-[DOT] Node: '.'
+    |  |     |  +-[DOT] Node: '.'
+    |  |     |  |  +-[DOT] Node: '.'
+    |  |     |  |  |  +-[IDENT] Node: 'pl'
+    |  |     |  |  |  \-[IDENT] Node: 'first'
+    |  |     |  |  \-[IDENT] Node: 'firstjava'
+    |  |     |  \-[IDENT] Node: 'SudokuBoard'
+    |  |     \-[ALIAS] Node: 'b'
+    |  \-[SELECT] Node: 'select'
+    |     \-[IDENT] Node: 'b'
+    \-[WHERE] Node: 'where'
+       \-[EQ] Node: '='
+          +-[DOT] Node: '.'
+          |  +-[IDENT] Node: 'b'
+          |  \-[IDENT] Node: 'name'
+          \-[COLON] Node: ':'
+             \-[IDENT] Node: 'name'
+
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.antlr.HqlSqlBaseWalker - select << begin [level=1, statement=select]
+2021-01-15 12:00:23 [main] DEBUG o.h.h.internal.ast.tree.FromElement - FromClause{level=1} : pl.first.firstjava.SudokuBoard (b) -> sudokuboar0_
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.tree.FromReferenceNode - Resolved : b -> sudokuboar0_.id
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.tree.FromReferenceNode - Resolved : b -> sudokuboar0_.id
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.tree.DotNode - getDataType() : name -> org.hibernate.type.StringType@51e8e6e6
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.tree.FromReferenceNode - Resolved : b.name -> sudokuboar0_.name
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.antlr.HqlSqlBaseWalker - select : finishing up [level=1, statement=select]
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.HqlSqlWalker - processQuery() :  ( SELECT ( {select clause} sudokuboar0_.id ) ( FromClause{level=1} SudokuBoard sudokuboar0_ ) ( where ( = ( sudokuboar0_.name sudokuboar0_.id name ) ? ) ) )
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.util.JoinProcessor - Using FROM fragment [SudokuBoard sudokuboar0_]
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.antlr.HqlSqlBaseWalker - select >> end [level=1, statement=select]
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - --- SQL AST ---
+ \-[SELECT] QueryNode: 'SELECT'  querySpaces (SudokuBoard)
+    +-[SELECT_CLAUSE] SelectClause: '{select clause}'
+    |  +-[ALIAS_REF] IdentNode: 'sudokuboar0_.id as id1_0_' {alias=b, className=pl.first.firstjava.SudokuBoard, tableAlias=sudokuboar0_}
+    |  \-[SQL_TOKEN] SqlFragment: 'sudokuboar0_.name as name2_0_'
+    +-[FROM] FromClause: 'from' FromClause{level=1, fromElementCounter=1, fromElements=1, fromElementByClassAlias=[b], fromElementByTableAlias=[sudokuboar0_], fromElementsByPath=[], collectionJoinFromElementsByPath=[], impliedElements=[]}
+    |  \-[FROM_FRAGMENT] FromElement: 'SudokuBoard sudokuboar0_' FromElement{explicit,not a collection join,not a fetch join,fetch non-lazy properties,classAlias=b,role=null,tableName=SudokuBoard,tableAlias=sudokuboar0_,origin=null,columns={,className=pl.first.firstjava.SudokuBoard}}
+    \-[WHERE] SqlNode: 'where'
+       \-[EQ] BinaryLogicOperatorNode: '='
+          +-[DOT] DotNode: 'sudokuboar0_.name' {propertyName=name,dereferenceType=PRIMITIVE,getPropertyPath=name,path=b.name,tableAlias=sudokuboar0_,className=pl.first.firstjava.SudokuBoard,classAlias=b}
+          |  +-[ALIAS_REF] IdentNode: 'sudokuboar0_.id' {alias=b, className=pl.first.firstjava.SudokuBoard, tableAlias=sudokuboar0_}
+          |  \-[IDENT] IdentNode: 'name' {originalText=name}
+          \-[NAMED_PARAM] ParameterNode: '?' {name=name, expectedType=org.hibernate.type.StringType@51e8e6e6}
+
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.ErrorTracker - throwQueryException() : no errors
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - HQL: select b from pl.first.firstjava.SudokuBoard b where b.name = :name
+2021-01-15 12:00:23 [main] DEBUG o.h.h.i.ast.QueryTranslatorImpl - SQL: select sudokuboar0_.id as id1_0_, sudokuboar0_.name as name2_0_ from SudokuBoard sudokuboar0_ where sudokuboar0_.name=?
+2021-01-15 12:00:23 [main] DEBUG o.h.hql.internal.ast.ErrorTracker - throwQueryException() : no errors
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* select
+        b 
+    from
+        SudokuBoard b 
+    where
+        b.name = :name */ select
+            sudokuboar0_.id as id1_0_,
+            sudokuboar0_.name as name2_0_ 
+        from
+            SudokuBoard sudokuboar0_ 
+        where
+            sudokuboar0_.name=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 0
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#83]
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* select
+        b 
+    from
+        SudokuBoard b 
+    where
+        b.name = :name */ select
+            sudokuboar0_.id as id1_0_,
+            sudokuboar0_.name as name2_0_ 
+        from
+            SudokuBoard sudokuboar0_ 
+        where
+            sudokuboar0_.name=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result set row: 0
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.loader.Loader - Result row: EntityKey[pl.first.firstjava.SudokuBoard#1]
+2021-01-15 12:00:23 [main] DEBUG o.h.r.j.i.LogicalConnectionManagedImpl - Initiating JDBC connection release from afterTransaction
+2021-01-15 12:00:23 [main] DEBUG o.h.e.t.internal.TransactionImpl - begin
+2021-01-15 12:00:23 [main] DEBUG o.h.e.t.internal.TransactionImpl - committing
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Processing flush-time cascades
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Dirty checking collections
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#83], was: [pl.first.firstjava.SudokuBoard.board#83] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection found: [pl.first.firstjava.SudokuBoard.board#165], was: [pl.first.firstjava.SudokuBoard.board#165] (initialized)
+2021-01-15 12:00:23 [main] DEBUG o.h.engine.internal.Collections - Collection dereferenced: [pl.first.firstjava.SudokuBoard.board#1]
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Flushed: 0 insertions, 0 updates, 82 deletions to 246 objects
+2021-01-15 12:00:23 [main] DEBUG o.h.e.i.AbstractFlushingEventListener - Flushed: 0 (re)creations, 0 updates, 1 removals to 3 collections
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - Listing entities:
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuBoard{name=Tab3test, id=165, board=[pl.first.firstjava.SudokuField#166, pl.first.firstjava.SudokuField#167, pl.first.firstjava.SudokuField#168, pl.first.firstjava.SudokuField#169, pl.first.firstjava.SudokuField#170, pl.first.firstjava.SudokuField#171, pl.first.firstjava.SudokuField#172, pl.first.firstjava.SudokuField#173, pl.first.firstjava.SudokuField#174, pl.first.firstjava.SudokuField#175, pl.first.firstjava.SudokuField#176, pl.first.firstjava.SudokuField#177, pl.first.firstjava.SudokuField#178, pl.first.firstjava.SudokuField#179, pl.first.firstjava.SudokuField#180, pl.first.firstjava.SudokuField#181, pl.first.firstjava.SudokuField#182, pl.first.firstjava.SudokuField#183, pl.first.firstjava.SudokuField#184, pl.first.firstjava.SudokuField#185, pl.first.firstjava.SudokuField#186, pl.first.firstjava.SudokuField#187, pl.first.firstjava.SudokuField#188, pl.first.firstjava.SudokuField#189, pl.first.firstjava.SudokuField#190, pl.first.firstjava.SudokuField#191, pl.first.firstjava.SudokuField#192, pl.first.firstjava.SudokuField#193, pl.first.firstjava.SudokuField#194, pl.first.firstjava.SudokuField#195, pl.first.firstjava.SudokuField#196, pl.first.firstjava.SudokuField#197, pl.first.firstjava.SudokuField#198, pl.first.firstjava.SudokuField#199, pl.first.firstjava.SudokuField#200, pl.first.firstjava.SudokuField#201, pl.first.firstjava.SudokuField#202, pl.first.firstjava.SudokuField#203, pl.first.firstjava.SudokuField#204, pl.first.firstjava.SudokuField#205, pl.first.firstjava.SudokuField#206, pl.first.firstjava.SudokuField#207, pl.first.firstjava.SudokuField#208, pl.first.firstjava.SudokuField#209, pl.first.firstjava.SudokuField#210, pl.first.firstjava.SudokuField#211, pl.first.firstjava.SudokuField#212, pl.first.firstjava.SudokuField#213, pl.first.firstjava.SudokuField#214, pl.first.firstjava.SudokuField#215, pl.first.firstjava.SudokuField#216, pl.first.firstjava.SudokuField#217, pl.first.firstjava.SudokuField#218, pl.first.firstjava.SudokuField#219, pl.first.firstjava.SudokuField#220, pl.first.firstjava.SudokuField#221, pl.first.firstjava.SudokuField#222, pl.first.firstjava.SudokuField#223, pl.first.firstjava.SudokuField#224, pl.first.firstjava.SudokuField#225, pl.first.firstjava.SudokuField#226, pl.first.firstjava.SudokuField#227, pl.first.firstjava.SudokuField#228, pl.first.firstjava.SudokuField#229, pl.first.firstjava.SudokuField#230, pl.first.firstjava.SudokuField#231, pl.first.firstjava.SudokuField#232, pl.first.firstjava.SudokuField#233, pl.first.firstjava.SudokuField#234, pl.first.firstjava.SudokuField#235, pl.first.firstjava.SudokuField#236, pl.first.firstjava.SudokuField#237, pl.first.firstjava.SudokuField#238, pl.first.firstjava.SudokuField#239, pl.first.firstjava.SudokuField#240, pl.first.firstjava.SudokuField#241, pl.first.firstjava.SudokuField#242, pl.first.firstjava.SudokuField#243, pl.first.firstjava.SudokuField#244, pl.first.firstjava.SudokuField#245, pl.first.firstjava.SudokuField#246]}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=246, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=245, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=244, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=231, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=230, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=229, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=228, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=235, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=234, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=233, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=232, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=239, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=238, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=237, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=236, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=243, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=242, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=241, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=240, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - pl.first.firstjava.SudokuField{id=215, sudokuBoard=pl.first.firstjava.SudokuBoard#165, value=0}
+2021-01-15 12:00:23 [main] DEBUG o.h.internal.util.EntityPrinter - More......
+2021-01-15 12:00:23 [main] DEBUG o.h.p.c.AbstractCollectionPersister - Deleting collection: [pl.first.firstjava.SudokuBoard.board#1]
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete collection pl.first.firstjava.SudokuBoard.board */ delete 
+        from
+            SudokuBoard_SudokuField 
+        where
+            SudokuBoard_id=?
+2021-01-15 12:00:23 [main] DEBUG o.h.p.c.AbstractCollectionPersister - Done deleting collection
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?
+2021-01-15 12:00:23 [main] DEBUG org.hibernate.SQL - 
+    /* delete pl.first.firstjava.SudokuField */ delete 
+        from
+            SudokuField 
+        where
+            id=?

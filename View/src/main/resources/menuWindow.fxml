@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.cp.view.MenuController">
+   <children>
+      <Button layoutX="253.0" layoutY="340.0" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="95.0" text="%exit" />
+      <Label layoutX="223.0" layoutY="25.0" prefHeight="60.0" prefWidth="155.0" text="%text.mode" textAlignment="CENTER" textFill="#651010" textOverrun="CLIP">
+         <font>
+            <Font name="Bodoni MT Bold" size="21.0" />
+         </font>
+      </Label>
+      <Button layoutX="266.0" layoutY="85.0" mnemonicParsing="false" onAction="#easyMode" prefHeight="25.0" prefWidth="69.0" text="%easy.mode" />
+      <Button layoutX="247.0" layoutY="147.0" mnemonicParsing="false" onAction="#mediumMode" prefHeight="25.0" prefWidth="107.0" text="%medium.mode" />
+      <Button layoutX="233.0" layoutY="200.0" mnemonicParsing="false" onAction="#hardMode" prefHeight="25.0" prefWidth="135.0" text="%hard.mode" />
+      <ComboBox fx:id="language" layoutX="20.0" layoutY="353.0" onAction="#chose" prefWidth="150.0" promptText="Language" />
+      <Label fx:id="autorsLabel" layoutX="505.0" layoutY="282.0" prefHeight="116.0" prefWidth="95.0" text="Label">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.cp.view.GameController">
+   <children>
+      <Button layoutX="478.0" layoutY="16.0" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="106.0" text="%menu" />
+      <Button layoutX="253.0" layoutY="395.0" mnemonicParsing="false" onAction="#checkSudoku" prefHeight="25.0" prefWidth="75.0" text="%check" />
+      <Label fx:id="dialogWindow" layoutX="279.0" layoutY="426.0" prefHeight="61.0" prefWidth="302.0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button layoutX="477.0" layoutY="60.0" mnemonicParsing="false" onAction="#changeSudoku" prefHeight="25.0" prefWidth="106.0" text="%newSudoku" textAlignment="CENTER" />
+      <GridPane fx:id="sudokuGrid" accessibleRole="HYPERLINK" gridLinesVisible="true" layoutX="150.0" layoutY="18.0" maxHeight="-Infinity" maxWidth="350.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="344.0" prefWidth="280.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.5" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="31.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="34.0" minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="39.0" prefHeight="39.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+      </GridPane>
+      <Button layoutX="478.0" layoutY="115.0" mnemonicParsing="false" onAction="#save" prefHeight="31.0" prefWidth="106.0" text="%save" />
+      <Button layoutX="476.0" layoutY="157.0" mnemonicParsing="false" onAction="#load" prefHeight="31.0" prefWidth="106.0" text="%load" />
+      <Button layoutX="496.0" layoutY="210.0" mnemonicParsing="false" text="Database" />
+      <ComboBox layoutX="444.0" layoutY="257.0" onAction="#chose_save" prefWidth="150.0" />
+   </children>
+</Pane>
